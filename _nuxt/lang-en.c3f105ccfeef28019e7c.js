@@ -1,0 +1,1 @@
+webpackJsonp([2],{"J+VR":function(e,o,s){"use strict";Object.defineProperty(o,"__esModule",{value:!0});o.default={pages:{about:"About",schedules:"Schedules",venue:"Venue",sponsors:"Sponsors",staffs:"Staff",blog:"Blog"},register:"Registration",sponsors:{sortBy:"Sorted in dictionary order"},venue:{openInGoogleMaps:"Open in Google Maps"}}}});
