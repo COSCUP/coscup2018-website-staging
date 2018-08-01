@@ -363,6 +363,8 @@ and limitations under the License.
  * License - https://fontawesome.com/license (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
  */
 
+/*! https://mths.be/punycode v1.4.1 by @mathias */
+
 /**
  * vuex v3.0.1
  * (c) 2017 Evan You
